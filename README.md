@@ -1,6 +1,6 @@
 # Data science portfolio by Caoimh Conway
 
-This portfolio contains a series of data analyses, visualizations, machine learning algorithms, statistical models that I have created.
+This portfolio contains a series of data analyses, visualizations, machine learning algorithms, and statistical models that I have created.
 
 ## [Investigating Food Safety Data](https://github.com/CaoimhConway/InvestigatingFoodSafetyData/blob/master/Investigating%20Food%20Safety%20Data.ipynb)
 
