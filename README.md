@@ -1,6 +1,6 @@
 # Data science portfolio by Caoimh Conway
 
-This portfolio contains a series of data analyses, visualizations, machine learning algorithms, and statistical models that I have created.
+This portfolio contains a series of data analyses, visualizations, machine learning algorithms, statistical models and data structures that I have created.
 
 
 ## [Neural Network Flexibility](https://github.com/CaoimhConway/NeuralNetworkFlexibility)
