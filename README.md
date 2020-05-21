@@ -5,7 +5,7 @@ This portfolio contains a series of data analyses, visualizations, machine learn
 
 ## [Neural Network Flexibility](https://github.com/CaoimhConway/NeuralNetworkFlexibility)
 
-I created this project to demonstrate the flexibility of neural networks in **Python** by using the same neural network to identify hand written digits, identify the language of a text, construct a perceptron, and to model real number functions, such as sin(x).
+I created this project to demonstrate the flexibility of neural networks in **Python** by using the same neural network to identify hand written digits, identify the language of a text, and to model real number functions, such as sin(x).
 
 
 ## [Double Ended Queue](https://github.com/CaoimhConway/DoubleEndedQueue)
