@@ -6,7 +6,7 @@ This portfolio contains a series of data analyses, visualizations, machine learn
 [Github repo](https://github.com/CaoimhConway/StockMarketPortfolioGenerator/blob/master/StockMarketPortfolioGenerator.ipynb)
 
 In this notebook I clean, organize, and analyze company fundamentals data in **R** in order to train a model that recommends a portfolio of 12 company investments that maximizes 12-month return of an overall $1,000,000 investment made at the end of quarter 4 of year 2018.
-
+<script src='https://www.quantconnect.com/terminal/backtest.js?sid=ebb0cabe54808f9fbc046505dee80bcc'></script>
 
 ## [Neural Network Flexibility](https://github.com/CaoimhConway/NeuralNetworkFlexibility)
 
