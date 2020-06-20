@@ -21,7 +21,7 @@ This is a **Java** implementation of a double ended queue, which is usually refe
 
 In this notebook I examine data collected by the Department of Public Health in San Francisco, and demonstrate multiple methods for data manipulation, visualization, imputation, and representation in **Python**. I also investigate patterns that appear in the data, and what insights we can glean from the distributions in the dataset.
 
-# #Algorithmic Trading Strategies for QuantConnect
+## Algorithmic Trading Strategies for QuantConnect
 
 This is a collection of algorithims created in **Python** created in order to research, backtest, and develop trading and investment strategies. Intended for use with the open-source platform QuantConnect. 
 
