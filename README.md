@@ -23,7 +23,7 @@ In this notebook I examine data collected by the Department of Public Health in 
 
 ## Algorithmic Trading Strategies for QuantConnect
 
-This is a collection of algorithims created in **Python** created in order to research, backtest, and develop trading and investment strategies. Intended for use with the open-source platform QuantConnect. 
+This is a collection of algorithims created in **Python** created in order to research, backtest, and develop trading and investment strategies. Intended for use with the open-source platform QuantConnect. I recommend interacting with the strategies using the embedded display below, otherwise [here is a link to the repository.](https://github.com/CaoimhConway/AlgorithimicTradingQC)
 
 
 ### Strategies
